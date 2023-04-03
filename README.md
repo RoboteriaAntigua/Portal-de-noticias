@@ -24,5 +24,5 @@ Al migrar el proyecto con --seed se completan los campos de las tablas con datos
 <li> Escribimos en el ordenador 127.0.0.1:8000/ </li>
 <li> Perdon por la simplesa </li>
 </ul>
-<p>
+
 
