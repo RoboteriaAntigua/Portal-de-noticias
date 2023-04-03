@@ -17,7 +17,7 @@ Al migrar el proyecto con --seed se completan los campos de las tablas con datos
 <li>Instalar las dependencias, ejecutar el comando: Composer install    </li> 
 <li>Generar la key de projecto, ejecutar: php artisan key:generate </li>
 <li> Renombrar el .env.example a solo .env </li>
-<li> En el .env agregar database= DESAFIO-WYLEEX contraseña de usuario de SQ</li>
+<li> En el .env agregar database= DESAFIO-WYLEEX contraseña de usuario de SQL</li>
 <li> Crear la Data Base llamada DESAFIO-WYLEX </li>
 <li> Corremos las migraciones, ejecutar: php artisan migrate --seed </li>
 <li> php artisan serve </li>
